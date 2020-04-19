@@ -106,4 +106,4 @@ if __name__ == "__main__":
                 speak("Email has been sent!")
             except Exception as e:
                 print(e)
-                speak("Sorry my friend harsh bhai. I am not able to send this email")    
+                speak("Sorry my friend harsh . I am not able to send this email")    
