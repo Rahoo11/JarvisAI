@@ -5,3 +5,6 @@ In this code I have used speak function,Wishme function and also defined take co
 
 This Jarvis do different kind of work by listening to your command like playing music, searching wikipedia, opening youtube, opening google, playing music,
 knowing current time, To open VS code, Opening stackoverflow and sending E-mail as well.
+
+#System Requirements
+It work on any OS,but Python 2 or above should be installed in your system.
